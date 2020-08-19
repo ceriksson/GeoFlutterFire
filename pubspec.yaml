@@ -5,12 +5,12 @@ author: Darshan Narayanaswamy<noeatsleepdev@gmail.com>
 homepage: https://github.com/DarshanGowda0/GeoFlutterFire
 
 environment:
-  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cloud_firestore: ^0.13.0+1
+  cloud_firestore: ^0.14.0
   rxdart: ^0.23.1
 
 flutter:
